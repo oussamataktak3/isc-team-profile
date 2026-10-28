@@ -6,3 +6,6 @@ Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 * oussama
 * ayoub
+## Favorite Programming Language
+
+Python — because it is easy to start with!
